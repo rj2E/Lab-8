@@ -1,3 +1,5 @@
+#This code will give the answers to Lab 7
+
 # Average June temperature 1970-2000, deg. C
 juneTempsFile <- "wc2.0_10m_tavg_06.tif"
 # Average June temperature 1960-1990, deg. C * 10
