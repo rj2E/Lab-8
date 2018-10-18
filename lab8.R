@@ -1,4 +1,4 @@
-#This code will give the answers to Lab 7
+#This code is from Lab 7 of CPSC 499
 
 # Average June temperature 1970-2000, deg. C
 juneTempsFile <- "wc2.0_10m_tavg_06.tif"
