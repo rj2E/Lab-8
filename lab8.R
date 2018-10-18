@@ -1,4 +1,4 @@
-#This code will give the answers to Lab 7
+#This code is from Lab 7 of CPSC 499
 
 #this is Lucas ROberts commenting
 
